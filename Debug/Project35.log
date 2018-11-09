@@ -1,0 +1,32 @@
+﻿Build started 1/8/2018 2:34:06 PM.
+     1>Project "C:\Users\ZARA\Documents\Visual Studio 2013\Projects\Project35\Project35\Project35.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp MyForm1.cpp MyForm2.cpp MyForm8.cpp
+         MyForm.cpp
+     1>c:\users\zara\documents\visual studio 2013\projects\project35\project35\MyForm1.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\zara\documents\visual studio 2013\projects\project35\project35\MyForm1.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         MyForm1.cpp
+     1>c:\users\zara\documents\visual studio 2013\projects\project35\project35\MyForm1.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>c:\users\zara\documents\visual studio 2013\projects\project35\project35\MyForm1.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         MyForm2.cpp
+         MyForm8.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ZARA\Documents\Visual Studio 2013\Projects\Project35\Debug\Project35.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Project35.MyForm.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm1.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm10.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm2.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm3.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm4.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm5.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm6.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm7.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm8.resources /ASSEMBLYRESOURCE:Debug\Project35.MyForm9.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ZARA\Documents\Visual Studio 2013\Projects\Project35\Debug\Project35.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\MyForm1.obj
+         Debug\MyForm10.obj
+         Debug\MyForm2.obj
+         Debug\MyForm3.obj
+         Debug\MyForm4.obj
+         Debug\MyForm5.obj
+         Debug\MyForm6.obj
+         Debug\MyForm7.obj
+         Debug\MyForm8.obj
+         Debug\MyForm9.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Project35.vcxproj -> C:\Users\ZARA\Documents\Visual Studio 2013\Projects\Project35\Debug\Project35.exe
+     1>Done Building Project "C:\Users\ZARA\Documents\Visual Studio 2013\Projects\Project35\Project35\Project35.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.90
